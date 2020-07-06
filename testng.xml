@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression Suite">
+
+  
+ <test name="Chat Bot Test">
+    <classes>
+     <class name="org.sce.com.chatbot.ChatBotTest"/>
+       </classes>
+  </test> 
+  
+  
+   
+  
+
+</suite> 

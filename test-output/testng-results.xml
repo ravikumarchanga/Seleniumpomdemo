@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59483" started-at="2018-12-13T09:32:46Z" finished-at="2018-12-13T09:33:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59483" started-at="2018-12-13T09:32:46Z" finished-at="2018-12-13T09:33:46Z">
+      <class name="org.sce.chatbot.ChatBotTest">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="checkSuiteSkip" is-config="true" duration-ms="8818" started-at="2018-12-13T15:02:37Z" finished-at="2018-12-13T15:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="checkTestSkip" is-config="true" duration-ms="0" started-at="2018-12-13T15:02:46Z" finished-at="2018-12-13T15:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="verifyChatBotContent" duration-ms="18125" started-at="2018-12-13T15:02:46Z" data-provider="getTestData" finished-at="2018-12-13T15:03:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//div[@id='bot']//div[3]//p]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bill]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Yes, a paperless bill has all of the information that the paper bill has.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChatBotContent -->
+        <test-method status="PASS" signature="verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="verifyChatBotContent" duration-ms="17937" started-at="2018-12-13T15:03:04Z" data-provider="getTestData" finished-at="2018-12-13T15:03:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//div[@id='bot']//div[5]//p]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bill Pay]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChatBotContent -->
+        <test-method status="PASS" signature="test1(org.testng.ITestResult)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="test1" is-config="true" duration-ms="0" started-at="2018-12-13T15:03:04Z" finished-at="2018-12-13T15:03:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyChatBotContent status=SUCCESS method=ChatBotTest.verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(org.testng.ITestResult)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="test1" is-config="true" duration-ms="2" started-at="2018-12-13T15:03:22Z" finished-at="2018-12-13T15:03:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyChatBotContent status=SUCCESS method=ChatBotTest.verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="verifyChatBotContent" duration-ms="23174" started-at="2018-12-13T15:03:22Z" data-provider="getTestData" finished-at="2018-12-13T15:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[//div[@id='bot']//div[7]//p]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Credit Card]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Credit cards are not accepted for Auto Pay.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChatBotContent -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="reportTestResult" is-config="true" duration-ms="219" started-at="2018-12-13T15:03:45Z" finished-at="2018-12-13T15:03:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+        <test-method status="PASS" signature="test1(org.testng.ITestResult)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="test1" is-config="true" duration-ms="0" started-at="2018-12-13T15:03:45Z" finished-at="2018-12-13T15:03:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyChatBotContent status=SUCCESS method=ChatBotTest.verifyChatBotContent(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.sce.chatbot.ChatBotTest@464bee09]" name="tearDown" is-config="true" duration-ms="1393" started-at="2018-12-13T15:03:46Z" finished-at="2018-12-13T15:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.sce.chatbot.ChatBotTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

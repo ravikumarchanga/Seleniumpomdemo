@@ -1,0 +1,203 @@
+2018-12-13 12:07:25 INFO  NativeConstructorAccessorImpl:139 - Master Suite Excel FIle Loaded
+2018-12-13 12:07:25 INFO  NativeConstructorAccessorImpl:144 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:08:34 INFO  NativeConstructorAccessorImpl:139 - Master Suite Excel FIle Loaded
+2018-12-13 12:08:34 INFO  NativeConstructorAccessorImpl:144 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:08:34 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:11:15 INFO  NativeConstructorAccessorImpl:139 - Master Suite Excel FIle Loaded
+2018-12-13 12:11:15 INFO  NativeConstructorAccessorImpl:144 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:11:15 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:18:31 INFO  NativeConstructorAccessorImpl:139 - Master Suite Excel FIle Loaded
+2018-12-13 12:18:31 INFO  NativeConstructorAccessorImpl:144 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:18:31 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:18:41 INFO  NativeConstructorAccessorImpl:115 - Chrome Browser Invoked
+2018-12-13 12:18:41 INFO  NativeConstructorAccessorImpl:130 - Window Maximized
+2018-12-13 12:18:41 INFO  NativeConstructorAccessorImpl:152 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 12:21:41 INFO  NativeConstructorAccessorImpl:139 - Master Suite Excel FIle Loaded
+2018-12-13 12:21:41 INFO  NativeConstructorAccessorImpl:144 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:21:41 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:21:47 INFO  NativeConstructorAccessorImpl:115 - Chrome Browser Invoked
+2018-12-13 12:21:47 INFO  NativeConstructorAccessorImpl:130 - Window Maximized
+2018-12-13 12:21:47 INFO  NativeConstructorAccessorImpl:152 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 12:21:54 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:21:56 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:21:56 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:21:58 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:22:04 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 12:22:12 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:22:14 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:22:14 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:22:16 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:22:22 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 12:22:30 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:22:32 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:22:32 INFO  NativeConstructorAccessorImpl:171 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:22:34 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:22:40 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 12:50:55 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 12:50:55 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:50:55 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:51:00 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 12:51:00 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 12:51:00 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 12:51:08 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:51:10 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:51:10 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:51:12 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:51:18 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 12:51:26 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:51:28 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:51:28 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:51:30 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:51:36 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 12:51:44 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:51:46 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:51:46 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:51:48 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:51:54 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 12:53:41 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 12:53:41 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 12:53:41 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 12:53:47 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 12:53:47 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 12:53:47 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 12:53:54 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:53:56 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:53:56 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:53:58 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:54:04 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 12:54:13 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:54:14 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:54:14 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:54:16 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:54:22 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 12:54:30 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 12:54:32 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 12:54:32 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 12:54:34 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 12:54:40 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 13:50:25 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 13:50:25 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 13:50:25 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 13:50:33 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 13:50:33 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 13:50:33 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 13:50:40 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:50:42 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:50:42 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:50:44 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:50:50 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 13:50:58 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:51:00 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:51:00 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:51:02 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:51:08 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 13:51:16 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:51:18 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:51:18 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:51:20 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:51:26 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 13:52:28 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 13:52:28 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 13:52:28 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 13:52:33 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 13:52:33 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 13:52:33 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 13:52:40 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:52:42 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:52:42 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:52:44 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:52:50 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 13:52:58 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:53:00 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:53:00 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:53:02 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:53:08 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 13:53:16 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:53:18 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:53:18 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:53:20 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:53:26 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 13:55:42 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 13:55:42 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 13:55:42 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 13:55:47 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 13:55:47 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 13:55:47 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 13:55:54 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:55:56 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:55:56 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:55:58 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:56:04 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 13:56:12 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:56:14 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:56:14 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:56:16 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:56:22 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 13:56:30 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 13:56:32 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 13:56:32 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 13:56:34 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 13:56:40 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 14:01:14 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 14:01:14 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 14:01:14 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 14:01:20 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 14:01:20 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 14:01:20 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 14:01:27 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:01:29 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:01:29 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:01:31 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:01:37 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 14:01:45 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:01:47 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:01:47 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:01:49 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:01:55 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 14:02:03 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:02:05 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:02:05 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:02:07 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:02:13 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 14:06:36 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 14:06:36 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 14:06:36 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 14:06:48 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 14:06:48 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 14:06:48 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 14:06:55 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:06:57 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:06:57 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:06:59 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:07:12 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 14:07:20 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:07:21 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:07:21 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:07:24 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:07:30 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 14:07:38 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 14:07:39 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 14:07:39 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 14:07:42 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 14:07:48 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
+2018-12-13 15:02:38 INFO  NativeConstructorAccessorImpl:143 - Master Suite Excel FIle Loaded
+2018-12-13 15:02:38 INFO  NativeConstructorAccessorImpl:148 - Chat Bot Suite Excel FIle Loaded
+2018-12-13 15:02:38 INFO  NativeConstructorAccessorImpl:104 - Browser is : : Chrome
+2018-12-13 15:02:44 INFO  NativeConstructorAccessorImpl:117 - Chrome Browser Invoked
+2018-12-13 15:02:44 INFO  NativeConstructorAccessorImpl:134 - Window Maximized
+2018-12-13 15:02:44 INFO  NativeConstructorAccessorImpl:156 - Entered Url : : https://ask-sce.azurewebsites.net/
+2018-12-13 15:02:51 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 15:02:53 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 15:02:53 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 15:02:55 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 15:03:01 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Yes, a paperless bill has all of the information that the paper bill has.Expected is : : Yes, a paperless bill has all of the information that the paper bill has.
+2018-12-13 15:03:09 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 15:03:11 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 15:03:11 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 15:03:13 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 15:03:19 INFO  NativeConstructorAccessorImpl:97 - Actual is : :We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.Expected is : : We have a number of easy and convenient ways to receive and pay your bill that range from Auto Pay to credit and debit card payment and Paperless Billing. Learn more here.
+2018-12-13 15:03:27 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-shellinput
+2018-12-13 15:03:29 INFO  ChatBotTest:80 - Entered Data in Input Field
+2018-12-13 15:03:29 INFO  NativeConstructorAccessorImpl:175 - Element Identified with ClassName : : By.className: wc-send
+2018-12-13 15:03:36 INFO  ChatBotTest:211 - Clicked  : : chatSendButton
+2018-12-13 15:03:42 INFO  NativeConstructorAccessorImpl:97 - Actual is : :Credit cards are not accepted for Auto Pay.Expected is : : Credit cards are not accepted for Auto Pay.
